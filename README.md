@@ -1,2 +1,2 @@
 # LeeJaeJoon_2018732069_HW5
-2018732069 이재준
+19971122 LeeJaeJoon
